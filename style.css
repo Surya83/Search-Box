@@ -1,0 +1,28 @@
+ body {
+            background-color: #99ffcc;
+        }
+
+        form {
+            width: 1000px;
+            margin:70px auto;
+        }
+
+        .search {
+            width: 80%;
+            padding: 7px;
+            font-size: 20px;
+            border-radius: 7px;
+        }
+
+        .submit {
+            width: 12%;
+            padding: 7px;
+            font-size: 20px;
+            background-color: #333399;
+            color: white;
+            border-radius: 7px;
+        }
+        .submit:hover{
+            cursor: pointer;
+            background-color: tomato;
+        }
